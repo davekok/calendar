@@ -1,0 +1,18 @@
+{
+    "name": "davekok/calendar",
+    "description": "A PHP library for calendar math.",
+    "type": "library",
+    "license": "UNLICENSE",
+    "autoload": {
+        "psr-4": {
+            "DaveKok\\Calendar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dave Kok",
+            "email": "email@davekok.nl"
+        }
+    ],
+    "require": {}
+}
